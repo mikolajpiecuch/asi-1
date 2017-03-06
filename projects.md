@@ -76,7 +76,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 23. [Laskowski, Piotr](https://github.com/ozh204/Ruby-on-Rails). [Gofry](https://ozh204.herokuapp.com/). [Getting-Started](https://github.com/ozh204/Getting-Started)
 24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/)
 25. Onych, Aleksandra 21.02 28.02
-26. Piecuch, Mikołaj
+26. [Piecuch, Mikołaj](https://github.com/mikolajpiecuch/asi)
 27. Podleśny, Julian 21.02 28.02
 28. [Porębski, Adrian](https://bitbucket.org/APorebski/ror-1). [Space Database](https://sheltered-meadow-43448.herokuapp.com/)
 29. Półgęsek, Arkadiusz 21.02 28.02
